@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Swetha
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...Docker and kubernates
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...shwethasahi1914@gmail.com
 
